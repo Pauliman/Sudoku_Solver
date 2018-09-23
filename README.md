@@ -9,3 +9,4 @@ brute force algorithm. On the front end side a GUI should mirror the cells and d
 The actual task was to find a way to write back to the GUI via the Event-Dispatch-Queue. The program does what it's supposed to do,
 but I paid little attention to the design aspect. So feel free to use it to solve your Sudokus. 
 By the way I limited the amount of recursions to 100.000 to determine when it is impossible to find a solution.
+If you want to use the Sudoku.jar file on your system, you'll most likely have to update to JRE9.
